@@ -7,19 +7,25 @@ const educationList = [
   {
     title: "BACHELORS OF ENGINEERING Hons. (Cloud Computing)",
     institution: "Apex Institute of Technology (CHANDIGARH UNIVERSITY)",
-    year: "2021 - 2025",
+    year: "2022 - 2025",
+    description: ""
+  },
+  {
+    title: "Diploma in Computer Science & Engineering",
+    institution: "Tathagat Gautam Buddha Government Polytechnic,Shravasti,UP",
+    year: "2019 - 2022",
     description: ""
   },
   {
     title: "HIGHER SECONDARY EDUCATION",
-    institution: "GRG SCHOOL SIRSA",
-    year: "2019 - 2020",
+    institution: "Angels Academy Sr. Sec. School,Haridwar,UK",
+    year: "2018 - 2019",
     description: ""
   },
   {
     title: "SECONDARY EDUCATION",
-    institution: "GRG SCHOOL SIRSA",
-    year: "2017 - 2018",
+    institution: "Siddharth Public School,Siddharthnagar",
+    year: "2016- 2017",
     description: ""
   }
 ];

@@ -7,7 +7,7 @@ const experiences = [
   {
     role: 'DevOps Engineer',
     company: 'Shiwansh Solutions',
-    duration: 'Jan 2025 – Present',
+    duration: 'Mar 2025 – Present',
     description:
       'Working on multiple SaaS-based DevOps pipelines for platforms like ems.shiwansh.com and shiwansh.com. ' +
       'Developing and maintaining CI/CD pipelines using Jenkins, GitHub webhooks, and shell scripts for automated deployments. ' +
@@ -18,7 +18,7 @@ const experiences = [
   {
     role: 'DevOps Trainee',
     company: 'Shiwansh Solutions',
-    duration: 'Oct 2024 – Dec 2025',
+    duration: 'Dec 2024 – Feb 2025',
     description:
       'Gained foundational experience in DevOps practices, including building CI/CD pipelines, containerization with Docker, ' +
       'orchestration with Kubernetes, Infrastructure as Code with Terraform and Ansible, and monitoring using Prometheus and Grafana.'

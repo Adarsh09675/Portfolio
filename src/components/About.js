@@ -21,7 +21,7 @@ function About() {
             <div className="card shadow p-4 border-0 bg-white bg-opacity-75">
               <h4 className="text-dark mb-3">DevOps Engineer | Cloud Computing Specialist</h4>
               <p className="text-muted">
-                I’m <strong>Anuj Verma</strong>, a DevOps Engineer at <strong>Shiwansh Solutions</strong> with expertise in cloud platforms, automation, 
+                I’m <strong>Adarsh Kumar Mishra</strong>, a DevOps Engineer at <strong>Shiwansh Solutions</strong> with expertise in cloud platforms, automation, 
                 and CI/CD pipelines. I specialize in designing and maintaining scalable, secure, and production-ready infrastructure, 
                 ensuring smooth deployments and reliable operations.
               </p>

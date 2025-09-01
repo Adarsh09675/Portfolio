@@ -2,8 +2,7 @@
 
 Clone the Repository
 
-git clone https://github.com/Devivaraprasadreddy/portfolio-demo.git
-
+git clone https://github.com/Adarsh09675/Portfolio.git
 
 Navigate to the Project Directory
 
