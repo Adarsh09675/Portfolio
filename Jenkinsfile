@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     environment {
-        APP_REPO = "git@github.com:vanuj447/portfolio-anuj.git"
-        SERVER_IP = "98.87.120.70"
+        APP_REPO = ""
+        SERVER_IP = ""
     }
 
     triggers {
