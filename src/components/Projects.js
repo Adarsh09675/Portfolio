@@ -12,7 +12,7 @@ const projectList = [
     responsibilities:
       'Developed Jenkins pipelines integrated with GitHub webhooks for automated deployments; containerized applications using Docker; configured infrastructure automation with Ansible and Terraform; implemented rollback strategies and enhanced error handling; set up Prometheus and Grafana for real-time monitoring.'
   },
- 
+
   {
     title: 'Book Store OTEL App with Observability using Docker Compose',
     duration: '',
@@ -80,7 +80,7 @@ function Projects() {
               </p>
               <p className="project-desc mb-2 text-light">{project.description}</p>
               <p className="project-responsibilities text-white-50">
-                <strong>Responsibilities:</strong> {project.responsibilities}
+                <strong>Responsibiliti:</strong> {project.responsibilities}
               </p>
             </div>
           </motion.div>
