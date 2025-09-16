@@ -80,7 +80,7 @@ function Projects() {
               </p>
               <p className="project-desc mb-2 text-light">{project.description}</p>
               <p className="project-responsibilities text-white-50">
-                <strong>Responsibiliti:</strong> {project.responsibilities}
+                <strong>responsibilities:</strong> {project.responsibilities}
               </p>
             </div>
           </motion.div>
