@@ -5,22 +5,22 @@ import '../App.css';
 const projectList = [
   {
     title: 'SaaS Platform DevOps Pipeline – ems.shiwansh.com',
-    duration: 'Feb 2025 – Present',
+    duration: 'Jun 2025 – Jul 2025',
     company: 'Shiwansh Solutions',
     description:
       'Implemented and maintained CI/CD pipelines for a SaaS platform, ensuring smooth deployment workflows and zero-downtime releases.',
     responsibilities:
       'Developed Jenkins pipelines integrated with GitHub webhooks for automated deployments; containerized applications using Docker; configured infrastructure automation with Ansible and Terraform; implemented rollback strategies and enhanced error handling; set up Prometheus and Grafana for real-time monitoring.'
   },
-  {
-    title: 'SaaS Platform DevOps Pipeline – shiwansh.com',
-    duration: 'May 2025 – Present',
-    company: 'Shiwansh Solutions',
+  {   title: '',
+    duration: '',
+    company: '',
     description:
-      'Optimized deployment processes for a multi-service SaaS platform, improving release speed and stability.',
+      '',
     responsibilities:
-      'Streamlined containerized deployments using Docker; automated provisioning with Terraform; integrated Jenkins pipelines with backend and static frontend deployments; implemented Slack alerts for build statuses; collaborated with developers to improve delivery pipeline efficiency.'
+      ''
   },
+ 
   {
     title: 'Book Store OTEL App with Observability using Docker Compose',
     duration: '',
@@ -31,31 +31,31 @@ const projectList = [
       'Built and containerized the application using Docker Compose; implemented OpenTelemetry SDKs for tracing and metrics; configured Prometheus, Loki, Tempo, and Grafana for monitoring; designed APIs for book listing, ordering, and inventory management with structured logging and trace propagation.'
   },
   {
-    title: 'AWS Infrastructure Automation using Terraform with Custom VPC and EC2-based Load Balancer',
+    title: 'E-commerce Website',
     duration: '',
     company: 'Personal Project',
     description:
-      'Automated the provisioning of AWS infrastructure using Terraform for a secure and scalable cloud environment.',
+      'It is a Frontend Project which includes multiple features like product listing,search,shopping cart,etc.',
     responsibilities:
-      'Created Terraform scripts to provision a custom VPC, subnets, route tables, and internet gateway; deployed EC2 instances including a load balancer; configured security groups for web and SSH access; ensured reusable infrastructure with modular scripts and state management.'
+      'Implemented reusable components, state management, and responsive UI with CSS/Bootstrap to ensure a smooth user experience.'
   },
   {
-    title: 'System Monitoring using Node Exporter, Prometheus, and Grafana',
+    title: 'College Management System',
     duration: '',
-    company: 'Personal Project',
+    company: 'Summer Training Project',
     description:
-      'Set up a complete system monitoring stack to collect, store, and visualize server performance metrics in real-time.',
+      'Created a full stack project for college using java and jsp which includes multiple features like student login,Admin login etc.',
     responsibilities:
-      'Installed and configured Node Exporter on a Linux server; set up Prometheus to scrape system metrics; integrated Grafana with Prometheus for dashboard visualizations; created custom dashboards to track CPU, memory, disk, and network usage.'
+      'A College Management System that manages student, faculty, courses, attendance, exams, fees, library, and communication with role-based access and responsive UI.'
   },
   {
-    title: 'Apache Web Server Deployment using Jenkins Pipeline and Ansible',
+    title: 'Library Management System',
     duration: '',
     company: 'Personal Project',
     description:
-      'Automated Apache web server deployment with a CI/CD pipeline integrating Jenkins and Ansible.',
+      'Creating a Fullstack Project using Next.js,sql,aws amplify,& .net',
     responsibilities:
-      'Configured a Jenkins Declarative Pipeline triggered by Git push events; wrote Ansible playbooks to install Apache, manage service state, and deploy website files; set up Slack integration for build notifications; performed post-deployment testing using curl.'
+      'A Library Management System that handles book inventory, user authentication, issue/return tracking, fines, and reports with a secure .NET backend, Next.js frontend, SQL database, and AWS Amplify deployment.'
   },
 ];
 

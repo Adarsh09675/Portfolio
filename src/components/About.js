@@ -21,7 +21,7 @@ function About() {
             <div className="card shadow p-4 border-0 bg-white bg-opacity-75">
               <h4 className="text-dark mb-3">DevOps Engineer | Cloud Computing Specialist</h4>
               <p className="text-muted">
-                I’m <strong>Adarsh Kumar Mishra</strong>, a DevOps Engineer at <strong>Shiwansh Solutions</strong> with expertise in cloud platforms, automation, 
+                I’m <strong>Adarsh Kumar Mishra</strong>, a DevOps Intern at <strong>Shiwansh Solutions</strong> with expertise in cloud platforms, automation, 
                 and CI/CD pipelines. I specialize in designing and maintaining scalable, secure, and production-ready infrastructure, 
                 ensuring smooth deployments and reliable operations.
               </p>
@@ -32,17 +32,16 @@ function About() {
                 automate release processes, and improve rollback strategies.
               </p>
               <p className="text-muted">
-                My technical expertise includes <strong>AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, Git, Linux, Java, Python, C, C++</strong>, 
-                along with monitoring stacks like <strong>Prometheus, Grafana, Loki, and Tempo</strong>. I’m passionate about building robust DevOps solutions 
+                My technical expertise includes <strong>AWS, Docker, Jenkins, Terraform, Ansible, Git, Linux, Java, Python(Scripting)</strong>,.I’m passionate about building robust DevOps solutions 
                 that bridge the gap between development and operations.
               </p>
               <p className="text-muted mb-0">
                 Key projects I’ve delivered:
                 <ul className="mb-0">
                   <li>📚 Book Store OTEL App with Docker Compose & full observability stack</li>
-                  <li>☁ AWS Infrastructure Automation using Terraform (Custom VPC, EC2 Load Balancer)</li>
-                  <li>📊 System Monitoring using Node Exporter, Prometheus & Grafana</li>
-                  <li>🌐 Apache Web Server Deployment using Jenkins Pipeline & Ansible</li>
+                  <li>📚 Library Management System</li>
+                  <li>📊 E-commerce Website</li>
+                  <li>🌐 College Management System</li>
                 </ul>
                 My goal is to continuously innovate in cloud-native and DevOps practices, delivering high-performance and cost-efficient solutions for modern businesses.
               </p>

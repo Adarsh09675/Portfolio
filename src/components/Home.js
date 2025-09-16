@@ -1,7 +1,7 @@
 import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
 import { FaDownload } from 'react-icons/fa';
-import resumePDF from '../assets/Devops_Resume_Adarsh.pdf'; // Make sure this file exists
+import resumePDF from '../assets/Adarsh_Mishra_Devops.pdf'; // Make sure this file exists
 import profileImg from '../assets/ADARSH.jpg'; // ✅ Your profile picture
 import '../App.css';
 
@@ -47,7 +47,7 @@ export default function Home() {
 
         <a
           href={resumePDF}
-          download="Devops_Resume_Adarsh.pdf" /* your resume name with extension of .pdf*/
+          download="Adarsh_Mishra_Devops.pdf" /* your resume name with extension of .pdf*/
           className="btn btn-glow btn-lg px-4 py-2 shadow d-inline-flex align-items-center"
         >
           <FaDownload className="me-2" />

@@ -14,7 +14,7 @@ function Summary() {
     >
       <h2 className="section-title mb-4">Summary</h2>
       <p className="summary-text lead">
-        DevOps Engineer at <strong>Shiwansh Solutions</strong> specializing in <strong>cloud-native automation, CI/CD pipelines, containerization, and real-time monitoring</strong> to deliver secure, scalable, and zero-downtime deployments.
+      DevOps Intern at <strong>Shiwansh Solutions</strong> specialized in <strong>cloud-native automation, CI/CD pipelines, containerization, and real-time monitoring</strong> to deliver secure, scalable, and zero-downtime deployments.
       </p>
     </motion.section>
   );

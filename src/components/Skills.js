@@ -3,10 +3,10 @@ import { motion } from 'framer-motion';
 import '../App.css';
 
 const skillCategories = {
-  'Programming Languages': ['Java', 'Python', 'C', 'C++', 'JavaScript', 'HTML', 'CSS'],
+  'Programming Languages': ['Java', 'Python', 'JavaScript', 'HTML', 'CSS'],
   'Databases': ['PostgreSQL', 'MongoDB', 'AWS RDS'],
   'Frameworks & Libraries': ['React.js', 'Node.js', 'Express.js'],
-  'Cloud Platforms': ['AWS (EC2, S3, Lambda)', 'Custom VPC', 'Load Balancer'],
+  'Cloud Platforms': ['AWS (EC2, S3, Lambda,amplify)', '', 'Load Balancer'],
   'Operating Systems': ['Linux (Ubuntu)', 'Windows'],
   'Version Control': ['Git', 'GitHub', 'GitLab'],
   'DevOps & Automation': [
@@ -17,15 +17,6 @@ const skillCategories = {
     'GitLab CI',
     'Ansible',
     'Terraform'
-  ],
-  'Monitoring & Observability': [
-    'Prometheus',
-    'Grafana',
-    'Loki',
-    'Tempo',
-    'SonarQube',
-    'NewRelic',
-    'OpenTelemetry'
   ],
   'Scripting': ['Shell Scripting', 'Bash']
 };

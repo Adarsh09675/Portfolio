@@ -5,24 +5,18 @@ import '../App.css';
 
 const experiences = [
   {
-    role: 'DevOps Engineer',
+    role: 'DevOps Intern',
     company: 'Shiwansh Solutions',
-    duration: 'Mar 2025 – Present',
-    description:
-      'Working on multiple SaaS-based DevOps pipelines for platforms like ems.shiwansh.com and shiwansh.com. ' +
-      'Developing and maintaining CI/CD pipelines using Jenkins, GitHub webhooks, and shell scripts for automated deployments. ' +
-      'Managing Dockerized applications, backend services, and static frontends with infrastructure provisioning via Ansible and Terraform. ' +
-      'Collaborating with developers to improve pipeline efficiency, implement rollback strategies, and enhance error handling, ' +
-      'ensuring production-ready systems with zero-downtime deployments and real-time monitoring.'
-  },
-  {
-    role: 'DevOps Trainee',
-    company: 'Shiwansh Solutions',
-    duration: 'Dec 2024 – Feb 2025',
+    duration: 'Jun 2025 – Aug 2025',
     description:
       'Gained foundational experience in DevOps practices, including building CI/CD pipelines, containerization with Docker, ' +
-      'orchestration with Kubernetes, Infrastructure as Code with Terraform and Ansible, and monitoring using Prometheus and Grafana.'
-  }
+      'orchestration with Kubernetes, Infrastructure as Code with Terraform and Ansible,' +
+      'Worked on multiple SaaS-based DevOps pipelines for platforms like ems.shiwansh.com and shiwansh.com. ' +
+      'Created CI/CD pipelines using Jenkins, GitHub webhooks, and shell scripts for automated deployments. ' +
+      'Managed Dockerized applications, backend services, and static frontends with infrastructure provisioning via Ansible and Terraform. ' +
+      'Collaborated with developers to improve pipeline efficiency, implement rollback strategies, and enhance error handling, ' +
+      'ensuring production-ready systems with zero-downtime deployments.'
+  },
 ];
 
 export default function Experience() {

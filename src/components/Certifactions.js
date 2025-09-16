@@ -12,11 +12,11 @@ const certifications = [
       "This certification covers the fundamentals of cloud computing, including AWS services, architecture, and best practices."
   },
   {
-    title: "AWS Cloud Architecting",
-    issuer: "AWS Academy",
+    title: "Google Cloud Digital Leader Training",
+    issuer: "Google Cloud",
     year: "2024",
     description:
-      "This certification focuses on designing and deploying scalable, highly available, and fault-tolerant systems on AWS."
+      "This Certification covers foundational knowledge of cloud computing and Google Cloud services, including core cloud concepts, products, and business use cases to support informed cloud-related decisions."
   },
 ];
 
