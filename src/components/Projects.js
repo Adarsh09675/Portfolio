@@ -12,14 +12,6 @@ const projectList = [
     responsibilities:
       'Developed Jenkins pipelines integrated with GitHub webhooks for automated deployments; containerized applications using Docker; configured infrastructure automation with Ansible and Terraform; implemented rollback strategies and enhanced error handling; set up Prometheus and Grafana for real-time monitoring.'
   },
-  {   title: '',
-    duration: '',
-    company: '',
-    description:
-      '',
-    responsibilities:
-      ''
-  },
  
   {
     title: 'Book Store OTEL App with Observability using Docker Compose',
